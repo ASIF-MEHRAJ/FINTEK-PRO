@@ -45,4 +45,4 @@ Future iterations of the application intend to explore structural expansions suc
 
 ## LIVE LINK
 
-https://asif-mehraj.github.io/FINTEK-PRO/dashboard.html
+https://asif-mehraj.github.io/FINTEK-PRO/
