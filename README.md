@@ -40,3 +40,9 @@ Future iterations of the application intend to explore structural expansions suc
 * Exporting transactions as a downloadable CSV file.
 * Setting localized spending limits and budget warnings per category.
 * Migrating to a cloud database with email/password authentication interfaces.
+
+---
+
+## LIVE LINK
+
+https://asif-mehraj.github.io/FINTEK-PRO/dashboard.html
